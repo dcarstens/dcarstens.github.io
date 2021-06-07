@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniela Carstens Taub on Daniela Carstens - Taller Producto 2021</title>
+    <link>https://dcarstens.github.io/</link>
+    <description>Recent content in Daniela Carstens Taub on Daniela Carstens - Taller Producto 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://dcarstens.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yo y mis trabajos representativos</title>
+      <link>https://dcarstens.github.io/docs/post-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://dcarstens.github.io/docs/post-1/</guid>
+      <description>Resumen sobre quién soy y algunos de mis trabajos</description>
+    </item>
+    
+    <item>
+      <title>Encargo 1: Mobiliario Híbrido</title>
+      <link>https://dcarstens.github.io/docs/post-2encargo1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://dcarstens.github.io/docs/post-2encargo1/</guid>
+      <description>Combinaciones, referentes e ideas de mobiliario híbrido</description>
+    </item>
+    
+    <item>
+      <title>Encargo 2: Desarrollo Mueble Híbrido</title>
+      <link>https://dcarstens.github.io/docs/post-3encargo2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://dcarstens.github.io/docs/post-3encargo2/</guid>
+      <description>Actualización Mueble híbrido- Marca, Visión-atributos y Naming de modelos- Referentes- Propuesta Materiales</description>
+    </item>
+    
+    <item>
+      <title>Encargo 3: Cambio de Diseño</title>
+      <link>https://dcarstens.github.io/docs/post-4encargo3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://dcarstens.github.io/docs/post-4encargo3/</guid>
+      <description>Presentación grupal- Nuevas Propuestas (Colgador + Silla)- Replanteamiento de Referentes- Primer Make2D</description>
+    </item>
+    
+    <item>
+      <title>Encargo 4: Silla Costilla, El final</title>
+      <link>https://dcarstens.github.io/docs/post-5encargo4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://dcarstens.github.io/docs/post-5encargo4/</guid>
+      <description>Presentación final, Catálogo Ammil- PDF Resumen Final-  Renders Finales</description>
+    </item>
+    
+    <item>
+      <title>Unidad 2: Bits &amp; Bites (E1, E2, E3 y E4)</title>
+      <link>https://dcarstens.github.io/docs/post-6encargo5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://dcarstens.github.io/docs/post-6encargo5/</guid>
+      <description>Entrevista Rafael Chaparro- Ejercicio de Fotogrametría- Ejercicio Fusion 360 y CURA- Ejercicio Fotografía + Origami</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://dcarstens.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://dcarstens.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://dcarstens.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://dcarstens.github.io/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+  </channel>
+</rss>
